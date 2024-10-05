@@ -1,6 +1,12 @@
-# Headline
-11111111111111111
+![logo](_media/icon.svg)
 
+# docsify <small>3.5</small>
 
+> A magical documentation site generator.
 
-2222222222222222
+- Simple and lightweight
+- No statically built html files
+- Multiple themes
+
+[GitHub](https://github.com/docsifyjs/docsify/)
+[Get Started](#docsify)
