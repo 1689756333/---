@@ -1,3 +1,3 @@
 *navbar
-    * [nav1](nav1)
-    * [nav2](nav2)
+    * [nav1](https://geekfox.com.cn/)
+    * [nav2](https://geekfox.com.cn/)
