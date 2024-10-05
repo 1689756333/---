@@ -1,1 +1,2 @@
-* [1111111](https://geekfox.com.cn/)
+* [En](/)
+* [简体中文](/zh-cn/)
