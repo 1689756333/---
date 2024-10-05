@@ -7,4 +7,4 @@
 - Multiple themes
 
 [GitHub](https://github.com/geekfox123/note)
-[开始阅读](docs/README.md)
+[开始阅读](README.md)
